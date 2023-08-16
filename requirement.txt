@@ -1,0 +1,3 @@
+ebooklib
+requests
+BeautifulSoup4
